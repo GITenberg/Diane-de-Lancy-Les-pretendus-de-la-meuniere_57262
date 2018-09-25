@@ -1,5 +1,8 @@
 _repo: Diane-de-Lancy-Les-pretendus-de-la-meuniere_57262
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57262-h/images/cover.jpg
 creator:
   author:
     agent_name: Ponson du Terrail
@@ -15,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Ponson_du_Terrail
     - http://en.wikipedia.org/wiki/Pierre_Alexis_Ponson_du_Terrail
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57262#Diane-de-Lancy-Les-pretendus-de-la-meuniere
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
