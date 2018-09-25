@@ -1,0 +1,32 @@
+_repo: Diane-de-Lancy-Les-pretendus-de-la-meuniere_57262
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ponson du Terrail
+    aliases:
+    - Du Terrail, Pierre Alexis
+    - Ponson du Terrail, Pierre Alexis, Vicomte de
+    - Terrail, Pierre Alexis Ponson du
+    birthdate: 1829
+    deathdate: 1871
+    gutenberg_agent_id: '5878'
+    url: http://www.gutenberg.org/2009/agents/5878
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Ponson_du_Terrail
+    - http://en.wikipedia.org/wiki/Pierre_Alexis_Ponson_du_Terrail
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2018-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57262'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Diane de Lancy; Les pretendus de la meunière
+url: http://www.gutenberg.org/ebooks/57262
